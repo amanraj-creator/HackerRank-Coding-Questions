@@ -1,3 +1,9 @@
-  # HackerRank-Coding-Questions
-   <img src="Logo-HR.png" alt="LOGO" width="150">
+ # HackerRank-Coding-Questions
+--------------------------------------------------------------------------
 
+<html>
+    <div class="footer">
+            Created with ❤️ by Aman Raj | Striving for Excellence
+        </div>
+
+</html>
